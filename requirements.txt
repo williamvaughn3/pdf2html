@@ -1,0 +1,6 @@
+#requirements: ["PyPDF2", "pytesseract", "PyMuPDF", "argparse"]
+pypdf2
+pytesseract
+PyMuPDF
+argparse
+
